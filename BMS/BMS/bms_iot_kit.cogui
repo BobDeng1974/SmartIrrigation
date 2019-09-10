@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.ui.navigator.ProjectExplorer"/>
+<orientation position="512" view="org.coocox.component.ui.ComponentView"/>
+<orientation position="512" view="org.coocox.builder.ui.views.ProjectView"/>
+<orientation position="512" view="org.coocox.codebugger.trace.ui.traceview"/>
+<orientation position="512" view="org.eclipse.debug.ui.DebugView"/>
+<orientation position="512" view="org.eclipse.ui.console.ConsoleView"/>
+<orientation position="512" view="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser"/>
+<orientation position="512" view="org.eclipse.debug.ui.VariableView"/>
+<orientation position="512" view="org.eclipse.debug.ui.BreakpointView"/>
+</fastViewData>
+<perspectiveBar/>
+<page aggregateWorkingSetId="Aggregate for window 1543223832312" focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/main.c" title="main.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1858" selectionTopPixel="1170"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="buzzer.c" partName="buzzer.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Buzzer/buzzer.c" title="buzzer.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Buzzer/buzzer.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/Buzzer/buzzer.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="233" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="circular_buf.c" partName="circular_buf.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/circular_buf.c" title="circular_buf.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/circular_buf.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/Utils/circular_buf.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="497" selectionTopPixel="270"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_gpio.h" partName="lpc17xx_gpio.h" path="C:/Users/ngx-vivek/Desktop/BMS/lpc17xx_lib/include/lpc17xx_gpio.h" title="lpc17xx_gpio.h" tooltip="C:/Users/ngx-vivek/Desktop/BMS/lpc17xx_lib/include/lpc17xx_gpio.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/include/lpc17xx_gpio.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="5048" selectionTopPixel="2706"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="system_LPC17xx.c" partName="system_LPC17xx.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/cmsis_boot/system_LPC17xx.c" title="system_LPC17xx.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/cmsis_boot/system_LPC17xx.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/cmsis_boot/system_LPC17xx.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="15596" selectionTopPixel="5430"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="lcd.c" partName="lcd.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/CLCD/lcd.c" title="lcd.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/CLCD/lcd.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/CLCD/lcd.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="3639" selectionTopPixel="2100"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="lcd.h" partName="lcd.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/CLCD/lcd.h" title="lcd.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/CLCD/lcd.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/CLCD/lcd.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="167" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_uart.c" partName="lpc17xx_uart.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/source/lpc17xx_uart.c" title="lpc17xx_uart.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/source/lpc17xx_uart.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_uart.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="47800" selectionTopPixel="24210"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="UART.c" partName="UART.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/UART/UART.c" title="UART.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/UART/UART.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/UART/UART.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="2097" selectionTopPixel="1110"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="circular_buf.h" partName="circular_buf.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/circular_buf.h" title="circular_buf.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/circular_buf.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/Utils/circular_buf.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_pinsel.c" partName="lpc17xx_pinsel.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/source/lpc17xx_pinsel.c" title="lpc17xx_pinsel.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/source/lpc17xx_pinsel.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_pinsel.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="16" selectionOffset="10330" selectionTopPixel="4380"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_uart.h" partName="lpc17xx_uart.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/include/lpc17xx_uart.h" title="lpc17xx_uart.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/include/lpc17xx_uart.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/include/lpc17xx_uart.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="30315" selectionTopPixel="8760"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_gpdma.c" partName="lpc17xx_gpdma.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/source/lpc17xx_gpdma.c" title="lpc17xx_gpdma.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/source/lpc17xx_gpdma.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_gpdma.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3698" selectionTopPixel="990"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Wifi.c" partName="Wifi.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/Backup6_KeypadChangesDone/BMS/WIFI/Wifi.c" title="Wifi.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/Backup6_KeypadChangesDone/BMS/WIFI/Wifi.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/WIFI/Wifi.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="17" selectionOffset="3411" selectionTopPixel="2475"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="GSMTask.c" partName="GSMTask.c" path="C:/Users/ABC/Desktop/BMS/BMS/GSM/GSMTask.c" title="GSMTask.c" tooltip="C:/Users/ABC/Desktop/BMS/BMS/GSM/GSMTask.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/GSM/GSMTask.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4343" selectionTopPixel="3480"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="UART.h" partName="UART.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/UART/UART.h" title="UART.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/UART/UART.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/UART/UART.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="42" selectionOffset="605" selectionTopPixel="167"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="arm-gcc-link.ld" partName="arm-gcc-link.ld" title="arm-gcc-link.ld" tooltip="E:\jk_files1\jk_files\BMS_Project\BMS_WholeProj\BMS\arm-gcc-link.ld" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/arm-gcc-link.ld"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="FreeRTOS.h" partName="FreeRTOS.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/FreeRTOS/include/FreeRTOS.h" title="FreeRTOS.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/FreeRTOS/include/FreeRTOS.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/FreeRTOS/include/FreeRTOS.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3878" selectionTopPixel="1050"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="utils.c" partName="utils.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/utils.c" title="utils.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/utils.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/Utils/utils.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="3127" selectionTopPixel="2070"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="utils.h" partName="utils.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/utils.h" title="utils.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/utils.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/Utils/utils.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2831" selectionTopPixel="975"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="GSMTask.h" partName="GSMTask.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/GSM/GSMTask.h" title="GSMTask.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/GSM/GSMTask.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/GSM/GSMTask.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="865" selectionTopPixel="315"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="syscalls.c" partName="syscalls.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/syscalls/syscalls.c" title="syscalls.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/syscalls/syscalls.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/syscalls/syscalls.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="381" selectionTopPixel="45"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="battery.c" partName="battery.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Battery/battery.c" title="battery.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Battery/battery.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/Battery/battery.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="196" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="adc.c" partName="adc.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/lpc17xx_lib/source/adc.c" title="adc.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/lpc17xx_lib/source/adc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/source/adc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5184" selectionTopPixel="2670"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="adc.h" partName="adc.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/include/adc.h" title="adc.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/include/adc.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/include/adc.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1061" selectionTopPixel="257"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="LPC17xx.h" partName="LPC17xx.h" title="LPC17xx.h" tooltip="E:\jk_files1\jk_files\BMS_Project\BMS_WholeProj\BMS\cmsis_boot\LPC17xx.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" path="E:\jk_files1\jk_files\BMS_Project\BMS_WholeProj\BMS\cmsis_boot\LPC17xx.h" project="bms_iot_kit"/>
+<editorState selectionHorizontalPixel="0" selectionLength="4" selectionOffset="20152" selectionTopPixel="8880"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="LPC17xx.h" partName="LPC17xx.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/cmsis_boot/LPC17xx.h" title="LPC17xx.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/cmsis_boot/LPC17xx.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/cmsis_boot/LPC17xx.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="8993" selectionTopPixel="2340"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stdint.h" partName="stdint.h" title="stdint.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\4.7 2012q4\arm-none-eabi\include\stdint.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" path="C:\Program Files (x86)\GNU Tools ARM Embedded\4.7 2012q4\arm-none-eabi\include\stdint.h" project="bms_iot_kit"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="2836" selectionTopPixel="1425"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="type.h" partName="type.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/type.h" title="type.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Utils/type.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/Utils/type.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="3" selectionOffset="366" selectionTopPixel="45"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="string.h" partName="string.h" title="string.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\4.7 2012q4\arm-none-eabi\include\string.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" path="C:\Program Files (x86)\GNU Tools ARM Embedded\4.7 2012q4\arm-none-eabi\include\string.h" project="bms_iot_kit"/>
+<editorState selectionHorizontalPixel="0" selectionLength="34" selectionOffset="456" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_gpio.c" partName="lpc17xx_gpio.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/lpc17xx_lib/source/lpc17xx_gpio.c" title="lpc17xx_gpio.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/lpc17xx_lib/source/lpc17xx_gpio.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_gpio.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8126" selectionTopPixel="3690"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_gpio.c" partName="lpc17xx_gpio.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/source/lpc17xx_gpio.c" title="lpc17xx_gpio.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/source/lpc17xx_gpio.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_gpio.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8084" selectionTopPixel="3915"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Keypad.c" partName="Keypad.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/Keypad/Keypad.c" title="Keypad.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/Keypad/Keypad.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/Keypad/Keypad.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="18" selectionOffset="705" selectionTopPixel="360"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Keypad.h" partName="Keypad.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Keypad/Keypad.h" title="Keypad.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/Keypad/Keypad.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/Keypad/Keypad.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2487" selectionTopPixel="722"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="i2c.h" partName="i2c.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/include/i2c.h" title="i2c.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/lpc17xx_lib/include/i2c.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/lpc17xx_lib/include/i2c.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Wifi.h" partName="Wifi.h" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/WIFI/Wifi.h" title="Wifi.h" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/BMS/WIFI/Wifi.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/WIFI/Wifi.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="36" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="startup_LPC17xx.c" partName="startup_LPC17xx.c" path="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/cmsis_boot/startup/startup_LPC17xx.c" title="startup_LPC17xx.c" tooltip="E:/jk_files1/jk_files/BMS_Project/BMS_WholeProj/SVN_Copy/BMS/cmsis_boot/startup/startup_LPC17xx.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bms_iot_kit/cmsis_boot/startup/startup_LPC17xx.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8930" selectionTopPixel="2370"/>
+</editor>
+<editor activePart="true" focus="true" id="org.coocox.builder.ui.editors.ConfigEditor" name="" partName="Configuration" title="Configuration" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">
+<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="6" verticalPosition="103"/>
+</input>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+</viewState>
+</view>
+<view id="org.coocox.codebugger.trace.ui.traceview" partName="Semihosting">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables"/>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.ExpressionView" partName="Expressions">
+<viewState>
+<ExpressionKeySet ExpKeys="UART3CirBuf,RecBuffer,RecBuffer,RecBuffer,"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="2">
+<expanded>
+<element path="/bms_iot_kit"/>
+<element path="/bms_iot_kit/GSM"/>
+<element path="/bms_iot_kit/syscalls"/>
+<element path="/bms_iot_kit/UART"/>
+<element path="/bms_iot_kit/Utils"/>
+</expanded>
+<selection>
+<element path="/bms_iot_kit/main.c"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.cdt.ui.callHierarchy" partName="Call Hierarchy">
+<viewState showFilesInLabels="false" variableFilter="false"/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view" partName="Disassembly">
+<viewState disassembly.syncActiveContext="true" disassembly.trackExpression="false"/>
+</view>
+</views>
+<perspectives activePart="org.coocox.builder.ui.editors.ConfigEditor" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<show_in_time id="org.eclipse.ui.views.ResourceNavigator" time="1543321240150"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.cdt.ui.callHierarchy"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6bdbac">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74960214" ratioLeft="1413" ratioRight="472" relationship="2" relative="org.eclipse.ui.internal.ViewStack@6bdbac">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1a43d73" ratio="0.6992561" ratioLeft="658" ratioRight="283" relationship="4" relative="org.eclipse.ui.internal.ViewStack@6bdbac">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.13567312" ratioLeft="259" ratioRight="1650" relationship="2" relative="org.eclipse.ui.internal.ViewStack@6bdbac"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@fb9657" ratio="0.71991843" ratioLeft="1059" ratioRight="412" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44952178" ratioLeft="423" ratioRight="518" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1ce2482" ratio="0.74920297" ratioLeft="705" ratioRight="236" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@18f17eb" ratio="0.6411483" ratioLeft="402" ratioRight="225" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.cdt.ui.callHierarchy" label="Call Hierarchy"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1232794" ratio="0.36981934" ratioLeft="348" ratioRight="593" relationship="4" relative="org.eclipse.ui.internal.ViewStack@6bdbac">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.codebugger.configuration.ui.Perspective" id="org.coocox.codebugger.configuration.perspective" label="CoDebugger"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFolder"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_menu_item_id id="org.eclipse.ui.file.save"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAll"/>
+<hide_menu_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openFile"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAs"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.projectMenu"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.flashMenu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.debug"/>
+<hide_menu_item_id id="org.coocox.builder.ui.showHelpViewAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_menu_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.build"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_menu_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.TargetManageAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newProject"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_toolbar_item_id id="org.eclipse.ui.file.save"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideFlashEraseAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.debug"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.coocox.codebugger.trace.ui.traceview"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.ExpressionView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view"/>
+<view id="org.eclipse.cdt.ui.callHierarchy"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@4703b3">&#x0A;<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@4703b3">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@8e7c8e" ratio="0.71929824" ratioLeft="451" ratioRight="176" relationship="4" relative="org.eclipse.ui.internal.ViewStack@4703b3">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@175636f" ratio="0.5" ratioLeft="679" ratioRight="679" relationship="2" relative="org.eclipse.ui.internal.ViewStack@8e7c8e">&#x0A;<folder activePageID="org.eclipse.debug.ui.ExpressionView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@11ed938" ratio="0.8140221" ratioLeft="1103" ratioRight="252" relationship="2" relative="org.eclipse.ui.internal.ViewStack@4703b3">&#x0A;<folder activePageID="org.eclipse.cdt.dsf.debug.ui.disassembly.view" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="Disassembly"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.29960707" ratioLeft="305" ratioRight="713" relationship="2" relative="org.eclipse.ui.internal.ViewStack@4703b3"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@9bdfd" ratio="0.7537879" ratioLeft="597" ratioRight="195" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.cdt.ui.callHierarchy" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.ui.callHierarchy" label="Call Hierarchy"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.cdt.internal.ui.CPerspectiveFactory" id="org.eclipse.cdt.ui.CPerspective" label="C/C++"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.SearchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.CElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.buildConfigActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.NavigationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.OpenActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.CodingActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.cdt.ui.CView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.cdt.ui.includeBrowser"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewCWizard1"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewCWizard2"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewHeaderFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewClassCreationWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.cdt.ui.callHierarchy"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.cdt.ui.CView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2496318" ratioLeft="339" ratioRight="1019" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottom" ratio="0.7488076" ratioLeft="471" ratioRight="158" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.cdt.ui.callHierarchy" label="Call Hierarchy"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.74975467" ratioLeft="764" ratioRight="255" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/GSM/GSMTask.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/GSM/GSMTask.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/cmsis_boot/startup/startup_LPC17xx.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/lpc17xx_lib/source/adc.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/GSM/GSMTask.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_gpio.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/Keypad/Keypad.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/UART/UART.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/bms_iot_kit/cmsis_boot/startup/startup_LPC17xx.c"/>
+<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
+<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="6" verticalPosition="103"/>
+</editor>
+<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
+<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="6" verticalPosition="103"/>
+</editor>
+</editors>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="393" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="0">
+<position info="not_deleted" x="181" y="0"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="1737" y="18"/>
+</item>
+<item historyLabel="GSMTask.c" index="2">
+<position info="not_deleted" x="11490" y="18"/>
+</item>
+<item historyLabel="main.c" index="3">
+<position info="not_deleted" x="1731" y="0"/>
+</item>
+<item historyLabel="startup_LPC17xx.c" index="4">
+<position info="not_deleted" x="8930" y="0"/>
+</item>
+<item historyLabel="main.c" index="3">
+<position info="not_deleted" x="1737" y="18"/>
+</item>
+<item historyLabel="GSMTask.c" index="2">
+<position info="not_deleted" x="11490" y="18"/>
+</item>
+<item historyLabel="GSMTask.c" index="2">
+<position info="not_deleted" x="11791" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="2">
+<position info="not_deleted" x="12306" y="0"/>
+</item>
+<item historyLabel="main.c" index="5">
+<position info="not_deleted" x="410" y="7"/>
+</item>
+<item historyLabel="adc.c" index="6">
+<position info="not_deleted" x="3320" y="7"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="11996" y="0"/>
+</item>
+<item historyLabel="adc.c" index="6">
+<position info="not_deleted" x="5184" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="11996" y="0"/>
+</item>
+<item historyLabel="lpc17xx_gpio.c" index="8">
+<position info="not_deleted" x="8126" y="0"/>
+</item>
+<item historyLabel="adc.c" index="6">
+<position info="not_deleted" x="5184" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="11996" y="0"/>
+</item>
+<item historyLabel="adc.c" index="6">
+<position info="not_deleted" x="5184" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="11996" y="0"/>
+</item>
+<item historyLabel="Keypad.c" index="9">
+<position info="not_deleted" x="705" y="18"/>
+</item>
+<item historyLabel="main.c" index="10">
+<position info="not_deleted" x="1926" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="10385" y="0"/>
+</item>
+<item historyLabel="main.c" index="10">
+<position info="not_deleted" x="1844" y="0"/>
+</item>
+<item historyLabel="UART.c" index="11">
+<position info="not_deleted" x="4897" y="16"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="10385" y="0"/>
+</item>
+<item historyLabel="main.c" index="10">
+<position info="not_deleted" x="1857" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="363" y="7"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="474" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="506" y="15"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="717" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="4087" y="30"/>
+</item>
+<item historyLabel="startup_LPC17xx.c" index="12">
+<position info="not_deleted" x="8930" y="0"/>
+</item>
+<item historyLabel="main.c" index="10">
+<position info="not_deleted" x="1858" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="363" y="7"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="432" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="477" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="506" y="15"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="716" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="4087" y="30"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="3547" y="12"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="402" y="12"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="475" y="0"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="506" y="15"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="1145" y="11"/>
+</item>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="5496" y="11"/>
+</item>
+<item historyLabel="Configuration" index="13"/>
+<item historyLabel="GSMTask.c" index="7">
+<position info="not_deleted" x="4343" y="0"/>
+</item>
+<item historyLabel="Configuration" index="13"/>
+<item active="true" historyLabel="Configuration" index="14"/>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="LPC17xx.h" tooltip="bms_iot_kit/cmsis_boot/LPC17xx.h">
+<persistable path="/bms_iot_kit/cmsis_boot/LPC17xx.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="adc.h" tooltip="bms_iot_kit/lpc17xx_lib/include/adc.h">
+<persistable path="/bms_iot_kit/lpc17xx_lib/include/adc.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="spi.h" tooltip="bms_iot_kit/lpc17xx_lib/source/spi.h">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/spi.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="sdcard.c" tooltip="bms_iot_kit/lpc17xx_lib/source/sdcard.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/sdcard.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="ssp.h" tooltip="bms_iot_kit/lpc17xx_lib/source/ssp.h">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/ssp.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_wdt.c" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc17xx_wdt.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_wdt.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_pinsel.c" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc17xx_pinsel.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_pinsel.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_libcfg_default.c" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc17xx_libcfg_default.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_libcfg_default.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_iap.c" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc17xx_iap.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_iap.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_i2c.c" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc17xx_i2c.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_i2c.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_gpdma.c" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc17xx_gpdma.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_gpdma.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_clkpwr.c" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc17xx_clkpwr.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc17xx_clkpwr.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc1768_spi.h" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc1768_spi.h">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc1768_spi.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc1768_spi.c" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc1768_spi.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc1768_spi.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc1768_spi.c" tooltip="bms_iot_kit/lpc17xx_lib/source/lpc1768_spi.c">
+<persistable path="/bms_iot_kit/lpc17xx_lib/source/lpc1768_spi.c"/>
+</file>
+</mruList>
+</workbench>

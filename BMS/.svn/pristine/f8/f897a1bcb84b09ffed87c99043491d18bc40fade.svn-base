@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -c -DLPC1768 -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS\cmsis_boot -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS\Utils -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS\lpc17xx_lib\include -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS\cmsis -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS\Buzzer -I..\..\..\..\..\Users\ngx-vivek\Desktop -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS\lpc17xx_lib -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS\lpc17xx_lib\source -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS\Battery -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS -I..\..\..\..\..\Users\ngx-vivek\Desktop\BMS\CLCD">
+      <target file="lpc17xx_gpdma.o" lastModified="16746b86dac">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_gpdma.c" lastModified="1666d7f0ec7"/>
+      </target>
+      <target file="lpc17xx_i2c.o" lastModified="16746b87e5a">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_i2c.c" lastModified="1666d7f0ea5"/>
+      </target>
+      <target file="lpc17xx_pinsel.o" lastModified="16746b87b09">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_pinsel.c" lastModified="1666d7f0ece"/>
+      </target>
+      <target file="buzzer.o" lastModified="16746b86308">
+         <source file="..\..\..\Buzzer\buzzer.c" lastModified="1674479ad47"/>
+      </target>
+      <target file="lpc17xx_ssp.o" lastModified="16746b87751">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_ssp.c" lastModified="1666d7f0eeb"/>
+      </target>
+      <target file="lpc17xx_utils.o" lastModified="16746b86bfc">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_utils.c" lastModified="1666d7f0ede"/>
+      </target>
+      <target file="lpc17xx_clkpwr.o" lastModified="16746b86450">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_clkpwr.c" lastModified="1666d7f0ee5"/>
+      </target>
+      <target file="core_cm3.o" lastModified="16746b861b9">
+         <source file="..\..\..\cmsis\core_cm3.c" lastModified="1666d7f0619"/>
+      </target>
+      <target file="lpc17xx_libcfg_default.o" lastModified="16746b878cd">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_libcfg_default.c" lastModified="1666d7f0ecc"/>
+      </target>
+      <target file="lpc17xx_iap.o" lastModified="16746b85d17">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_iap.c" lastModified="1666d7f0e98"/>
+      </target>
+      <target file="lpc17xx_uart.o" lastModified="16746b86917">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_uart.c" lastModified="1666d7f0ea2"/>
+      </target>
+      <target file="i2c.o" lastModified="16746b85eaa">
+         <source file="..\..\..\lpc17xx_lib\source\i2c.c" lastModified="1666d7f0ebf"/>
+      </target>
+      <target file="battery.o" lastModified="16746b882f1">
+         <source file="..\..\..\Battery\battery.c" lastModified="16744802237"/>
+      </target>
+      <target file="sdcard.o" lastModified="16746b86702">
+         <source file="..\..\..\lpc17xx_lib\source\sdcard.c" lastModified="1666d7f0e9b"/>
+      </target>
+      <target file="utils.o" lastModified="16746d5522a">
+         <source file="..\..\..\Utils\utils.c" lastModified="16746be70ad"/>
+      </target>
+      <target file="lpc17xx_wdt.o" lastModified="16746b873dd">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_wdt.c" lastModified="1666d7f0ed4"/>
+      </target>
+      <target file="lpc17xx_adc.o" lastModified="16746b86ac1">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_adc.c" lastModified="1666d7f0ec1"/>
+      </target>
+      <target file="circular_buf.o" lastModified="16746b88431">
+         <source file="..\..\..\Utils\circular_buf.c" lastModified="16746b8176e"/>
+      </target>
+      <target file="lpc17xx_timer.o" lastModified="16746b86025">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_timer.c" lastModified="1666d7f0eb7"/>
+      </target>
+      <target file="lpc17xx_gpio.o" lastModified="16746b87292">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_gpio.c" lastModified="1666d7f0eda"/>
+      </target>
+      <target file="system_LPC17xx.o" lastModified="16746b865cf">
+         <source file="..\..\..\cmsis_boot\system_LPC17xx.c" lastModified="1666d7f08d9"/>
+      </target>
+      <target file="startup_LPC17xx.o" lastModified="16746b875c1">
+         <source file="..\..\..\cmsis_boot\startup\startup_LPC17xx.c" lastModified="1666d7f08dc"/>
+      </target>
+      <target file="lpc17xx_spi.o" lastModified="16746b87c13">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_spi.c" lastModified="1666d7f0ed1"/>
+      </target>
+      <target file="adc.o" lastModified="16746b87f93">
+         <source file="..\..\..\lpc17xx_lib\source\adc.c" lastModified="1673fe6b549"/>
+      </target>
+      <target file="lpc1768_spi.o" lastModified="16746b874a2">
+         <source file="..\..\..\lpc17xx_lib\source\lpc1768_spi.c" lastModified="1666d7f0ec9"/>
+      </target>
+      <target file="main.o" lastModified="16746b86f00">
+         <source file="..\..\..\main.c" lastModified="167447aa178"/>
+      </target>
+      <target file="lcd.o" lastModified="16746b8816d">
+         <source file="..\..\..\CLCD\lcd.c" lastModified="167446f2046"/>
+      </target>
+   </processor>
+</history>

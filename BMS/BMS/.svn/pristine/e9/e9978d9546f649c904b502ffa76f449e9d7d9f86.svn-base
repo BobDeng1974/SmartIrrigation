@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.7.3 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=bms_iot_kit.map -O0 --gc-sections -LC:/Users/ngx-vivek/Desktop/BMS -TC:/Users/ngx-vivek/Desktop/BMS/arm-gcc-link.ld -g">
+      <target file="bms_iot_kit.elf" lastModified="16746d556b1">
+         <source file="..\obj\lpc17xx_iap.o" lastModified="16746b85d17"/>
+         <source file="..\obj\i2c.o" lastModified="16746b85eaa"/>
+         <source file="..\obj\lpc17xx_timer.o" lastModified="16746b86025"/>
+         <source file="..\obj\core_cm3.o" lastModified="16746b861b9"/>
+         <source file="..\obj\buzzer.o" lastModified="16746b86308"/>
+         <source file="..\obj\lpc17xx_clkpwr.o" lastModified="16746b86450"/>
+         <source file="..\obj\system_LPC17xx.o" lastModified="16746b865cf"/>
+         <source file="..\obj\sdcard.o" lastModified="16746b86702"/>
+         <source file="..\obj\lpc17xx_uart.o" lastModified="16746b86917"/>
+         <source file="..\obj\lpc17xx_adc.o" lastModified="16746b86ac1"/>
+         <source file="..\obj\lpc17xx_utils.o" lastModified="16746b86bfc"/>
+         <source file="..\obj\lpc17xx_gpdma.o" lastModified="16746b86dac"/>
+         <source file="..\obj\main.o" lastModified="16746b86f00"/>
+         <source file="..\obj\utils.o" lastModified="16746d5522a"/>
+         <source file="..\obj\lpc17xx_gpio.o" lastModified="16746b87292"/>
+         <source file="..\obj\lpc17xx_wdt.o" lastModified="16746b873dd"/>
+         <source file="..\obj\lpc1768_spi.o" lastModified="16746b874a2"/>
+         <source file="..\obj\startup_LPC17xx.o" lastModified="16746b875c1"/>
+         <source file="..\obj\lpc17xx_ssp.o" lastModified="16746b87751"/>
+         <source file="..\obj\lpc17xx_libcfg_default.o" lastModified="16746b878cd"/>
+         <source file="..\obj\lpc17xx_pinsel.o" lastModified="16746b87b09"/>
+         <source file="..\obj\lpc17xx_spi.o" lastModified="16746b87c13"/>
+         <source file="..\obj\lpc17xx_i2c.o" lastModified="16746b87e5a"/>
+         <source file="..\obj\adc.o" lastModified="16746b87f93"/>
+         <source file="..\obj\lcd.o" lastModified="16746b8816d"/>
+         <source file="..\obj\battery.o" lastModified="16746b882f1"/>
+         <source file="..\obj\circular_buf.o" lastModified="16746b88431"/>
+      </target>
+   </processor>
+</history>

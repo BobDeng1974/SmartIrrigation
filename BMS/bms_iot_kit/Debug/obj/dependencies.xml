@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\..\..\Users\ABC\Desktop\BMS\Battery /IE:\BMS_Iot_Kit\BMS\syscalls /I..\..\..\..\..\Users\ABC\Desktop\BMS /I..\..\..\..\..\Users\ABC\Desktop\BMS\WIFI /I..\..\..\..\..\Users\ABC\Desktop\BMS\cmsis_boot /I..\..\..\..\..\Users\ABC\Desktop /I..\..\..\..\..\Users\ABC\Desktop\BMS\cmsis /I..\..\..\..\..\Users\ABC\Desktop\BMS\Buzzer /I..\..\..\..\..\Users\ABC\Desktop\BMS\GSM /I..\..\..\..\..\Users\ABC\Desktop\BMS\Utils /I..\..\..\..\..\Users\ABC\Desktop\BMS\lpc17xx_lib /I..\..\..\..\..\Users\ABC\Desktop\BMS\lpc17xx_lib\include /IE:\BMS_Iot_Kit /I..\..\..\..\..\Users\ABC\Desktop\BMS\lpc17xx_lib\source /I..\..\..\..\..\Users\ABC\Desktop\BMS\CLCD /I..\..\..\..\..\Users\ABC\Desktop\BMS\UART /I..\..\..\..\..\Users\ABC\Desktop\BMS\Keypad /IE:\BMS_Iot_Kit\BMS">
+      <source file="..\..\..\lpc17xx_lib\source\lpc1768_spi.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\source\spi.h"/>
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\spi.h" lastModified="1694779f5e8">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_adc.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_adc.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_wdt.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_wdt.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_LPC17xx.c" lastModified="1694779f200">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\i2c.c" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\i2c.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm3.c" lastModified="1694779fdb8">
+      </source>
+      <source file="..\..\..\UART\UART.h" lastModified="1694779f9d0">
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_i2c.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\debug_frmwrk.h" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_uart.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_timer.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_spi.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_iap.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_iap.h"/>
+         <include file="..\..\..\cmsis_boot\system_LPC17xx.h"/>
+      </source>
+      <source file="..\..\..\UART\UART.c" lastModified="1694779fdb8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_uart.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h"/>
+         <include file="..\..\..\Utils\circular_buf.h"/>
+         <include file="..\..\..\UART\UART.h"/>
+         <include file="..\..\..\Utils\utils.h"/>
+      </source>
+      <source file="..\..\..\Buzzer\buzzer.h" lastModified="1694779f9d0">
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_uart.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_uart.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+         <include file="..\..\..\Utils\circular_buf.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_gpdma.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_gpdma.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\Battery\battery.h" lastModified="1694779f9d0">
+         <include file="..\..\..\Battery\battery.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\Buzzer\buzzer.c" lastModified="1694779f9d0">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h"/>
+         <include file="..\..\..\Buzzer\buzzer.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\Battery\battery.c" lastModified="1694779f9d0">
+         <include file="..\..\..\lpc17xx_lib\include\adc.h"/>
+         <include file="..\..\..\Battery\battery.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_i2c.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_i2c.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_spi.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_spi.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\Utils\circular_buf.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_gpdma.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="E:\BMS_Iot_Kit\BMS\syscalls\extint.h" lastModified="16a5fb8d5d1">
+      </source>
+      <source file="..\..\..\GSM\GSMTask.h" lastModified="16a562e0668">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_utils.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_utils.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_timer.h"/>
+      </source>
+      <source file="..\..\..\Utils\circular_buf.c" lastModified="1694779f200">
+         <include file="..\..\..\Utils\circular_buf.h"/>
+         <include file="..\..\..\Utils\utils.h"/>
+      </source>
+      <source file="E:\BMS_Iot_Kit\BMS\syscalls\extint.c" lastModified="16a5fd887f4">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+         <include file="E:\BMS_Iot_Kit\BMS\syscalls\extint.h"/>
+      </source>
+      <source file="..\..\..\GSM\GSMTask.c" lastModified="16a562f7aa6">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_wdt.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+         <include file="..\..\..\GSM\GSMTask.h"/>
+         <include file="..\..\..\UART\UART.h"/>
+         <include file="..\..\..\Utils\utils.h"/>
+         <include file="..\..\..\CLCD\lcd.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_libcfg_default.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\CLCD\lcd.h" lastModified="1694779f9d0">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\adc.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\Utils\lpc_types.h" lastModified="1694779f5e8">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\sdcard.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\debug_frmwrk.h"/>
+      </source>
+      <source file="..\..\..\CLCD\lcd.c" lastModified="1694779fdb8">
+         <include file="..\..\..\CLCD\lcd.h"/>
+      </source>
+      <source file="..\..\..\WIFI\Wifi.h" lastModified="1694779f200">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_ssp.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\syscalls\syscalls.c" lastModified="169477a01a0">
+      </source>
+      <source file="..\..\..\WIFI\Wifi.c" lastModified="1694779f5e8">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+         <include file="..\..\..\UART\UART.h"/>
+         <include file="..\..\..\WIFI\Wifi.h"/>
+         <include file="..\..\..\Utils\utils.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_utils.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_LPC17xx.h" lastModified="1694779f5e8">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_uart.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_clkpwr.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+      </source>
+      <source file="..\..\..\Keypad\Keypad.c" lastModified="1694779f9d0">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\i2c.h"/>
+      </source>
+      <source file="..\..\..\Utils\utils.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_pinsel.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_LPC17xx.c" lastModified="1694779f5e8">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+      </source>
+      <source file="..\..\..\Utils\utils.c" lastModified="1694779f9d0">
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_gpio.c" lastModified="16a63bb1067">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\Utils\type.h" lastModified="16a5fd8cb48">
+      </source>
+      <source file="E:\BMS_Iot_Kit\BMS\syscalls\core_cm3.h" lastModified="16a5fb75d30">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\i2c.h" lastModified="1694779f200">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_ssp.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_ssp.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\adc.c" lastModified="1694779f5e8">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\adc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\LPC17xx.h" lastModified="1694779f200">
+         <include file="E:\BMS_Iot_Kit\BMS\syscalls\core_cm3.h"/>
+         <include file="..\..\..\cmsis_boot\system_LPC17xx.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_adc.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_wdt.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_timer.c" lastModified="1694779f5e8">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_timer.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_iap.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/I..\..\..\..\..\Users\ABC\Desktop\BMS\Battery /I..\..\..\..\..\Users\ABC\Desktop\BMS /I..\..\..\..\..\Users\ABC\Desktop\BMS\WIFI /I..\..\..\..\..\Users\ABC\Desktop\BMS\cmsis_boot /I..\..\..\..\..\Users\ABC\Desktop /I..\..\..\..\..\Users\ABC\Desktop\BMS\Buzzer /I..\..\..\..\..\Users\ABC\Desktop\BMS\cmsis /I..\..\..\..\..\Users\ABC\Desktop\BMS\GSM /I..\..\..\..\..\Users\ABC\Desktop\BMS\Utils /I..\..\..\..\..\Users\ABC\Desktop\BMS\lpc17xx_lib /I..\..\..\..\..\Users\ABC\Desktop\BMS\lpc17xx_lib\include /I..\..\..\..\..\Users\ABC\Desktop\BMS\lpc17xx_lib\source /I..\..\..\..\..\Users\ABC\Desktop\BMS\CLCD /I..\..\..\..\..\Users\ABC\Desktop\BMS\UART /I..\..\..\..\..\Users\ABC\Desktop\BMS\Keypad">
+      <source file="..\..\..\lpc17xx_lib\source\lpc1768_spi.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\source\spi.h"/>
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_LPC17xx.c" lastModified="1694779f200">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\i2c.c" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\i2c.h"/>
+      </source>
+      <source file="..\..\..\UART\UART.h" lastModified="1694779f9d0">
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_i2c.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\debug_frmwrk.h" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_uart.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_timer.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_spi.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_iap.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_iap.h"/>
+         <include file="..\..\..\cmsis_boot\system_LPC17xx.h"/>
+      </source>
+      <source file="..\..\..\Buzzer\buzzer.h" lastModified="1694779f9d0">
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\Battery\battery.h" lastModified="1694779f9d0">
+         <include file="..\..\..\Battery\battery.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\Buzzer\buzzer.c" lastModified="1694779f9d0">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h"/>
+         <include file="..\..\..\Buzzer\buzzer.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\Battery\battery.c" lastModified="1694779f9d0">
+         <include file="..\..\..\lpc17xx_lib\include\adc.h"/>
+         <include file="..\..\..\Battery\battery.h"/>
+      </source>
+      <source file="..\..\..\Utils\circular_buf.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_gpdma.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\GSM\GSMTask.h" lastModified="16a562e0668">
+      </source>
+      <source file="..\..\..\Utils\circular_buf.c" lastModified="1694779f200">
+         <include file="..\..\..\Utils\circular_buf.h"/>
+         <include file="..\..\..\Utils\utils.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_libcfg_default.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\CLCD\lcd.h" lastModified="1694779f9d0">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\adc.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\WIFI\Wifi.h" lastModified="1694779f200">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_ssp.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_utils.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_uart.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_clkpwr.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+      </source>
+      <source file="..\..\..\Keypad\Keypad.c" lastModified="1694779f9d0">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h"/>
+         <include file="..\..\..\Utils\type.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\i2c.h"/>
+      </source>
+      <source file="..\..\..\Utils\utils.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\type.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_pinsel.c" lastModified="1694779f200">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\i2c.h" lastModified="1694779f200">
+      </source>
+      <source file="..\..\..\cmsis_boot\LPC17xx.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis\core_cm3.h"/>
+         <include file="..\..\..\cmsis_boot\system_LPC17xx.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_adc.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_wdt.h" lastModified="1694779f200">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_iap.h" lastModified="1694779f200">
+         <include file="..\..\..\Utils\lpc_types.h"/>
+      </source>
+   </includePath>
+</dependencies>

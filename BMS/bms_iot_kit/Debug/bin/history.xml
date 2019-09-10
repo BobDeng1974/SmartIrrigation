@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=bms_iot_kit.map -O0 --gc-sections -LC:/Users/ABC/Desktop/BMS -TC:/Users/ABC/Desktop/BMS/arm-gcc-link.ld -g">
+      <target file="bms_iot_kit.elf" lastModified="16a63bd79fa">
+         <source file="..\obj\GSMTask.o" lastModified="16a5fd8d96c"/>
+         <source file="..\obj\lpc17xx_iap.o" lastModified="16a5fc5ddab"/>
+         <source file="..\obj\i2c.o" lastModified="16a5fc5de6e"/>
+         <source file="..\obj\lpc17xx_timer.o" lastModified="16a5fc5df70"/>
+         <source file="..\obj\core_cm3.o" lastModified="16a5fc5e043"/>
+         <source file="..\obj\buzzer.o" lastModified="16a5fd8da05"/>
+         <source file="..\obj\lpc17xx_clkpwr.o" lastModified="16a5fc5e20b"/>
+         <source file="..\obj\system_LPC17xx.o" lastModified="16a5fc5e2d5"/>
+         <source file="..\obj\sdcard.o" lastModified="16a5fc5e373"/>
+         <source file="..\obj\lpc17xx_uart.o" lastModified="16a5fd8db8e"/>
+         <source file="..\obj\lpc17xx_adc.o" lastModified="16a5fc5e58e"/>
+         <source file="..\obj\lpc17xx_utils.o" lastModified="16a5fc5e657"/>
+         <source file="..\obj\lpc17xx_gpdma.o" lastModified="16a5fc5e75c"/>
+         <source file="..\obj\main.o" lastModified="16a63bd771a"/>
+         <source file="..\obj\utils.o" lastModified="16a5fd8dd87"/>
+         <source file="..\obj\extint.o" lastModified="16a5fd8de40"/>
+         <source file="..\obj\lpc17xx_gpio.o" lastModified="16a63bb1d0a"/>
+         <source file="..\obj\lpc17xx_wdt.o" lastModified="16a5fc5f148"/>
+         <source file="..\obj\Keypad.o" lastModified="16a5fd8dee4"/>
+         <source file="..\obj\lpc1768_spi.o" lastModified="16a5fc5f5d2"/>
+         <source file="..\obj\startup_LPC17xx.o" lastModified="16a5fc5f6e8"/>
+         <source file="..\obj\lpc17xx_ssp.o" lastModified="16a5fc5f7f6"/>
+         <source file="..\obj\lpc17xx_libcfg_default.o" lastModified="16a5fc5f898"/>
+         <source file="..\obj\lpc17xx_pinsel.o" lastModified="16a5fc5f961"/>
+         <source file="..\obj\lpc17xx_spi.o" lastModified="16a5fc5fa5a"/>
+         <source file="..\obj\syscalls.o" lastModified="16a5fc5fb57"/>
+         <source file="..\obj\lpc17xx_i2c.o" lastModified="16a5fc5fc8c"/>
+         <source file="..\obj\Wifi.o" lastModified="16a5fd8e0d8"/>
+         <source file="..\obj\adc.o" lastModified="16a5fc5ff89"/>
+         <source file="..\obj\lcd.o" lastModified="16a5fd8e1b7"/>
+         <source file="..\obj\UART.o" lastModified="16a5fd8e335"/>
+         <source file="..\obj\battery.o" lastModified="16a5fd8e436"/>
+         <source file="..\obj\circular_buf.o" lastModified="16a5fd8e4e7"/>
+      </target>
+   </processor>
+</history>
